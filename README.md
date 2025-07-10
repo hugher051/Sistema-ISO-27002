@@ -1,1 +1,0 @@
-# Sistema-ISO-27002
